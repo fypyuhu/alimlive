@@ -1,0 +1,1 @@
+<a href='{{route("$route".".edit",$table->id)}}' class="btn btn-info"><i class="fa fa-edit"></i>edit</a>

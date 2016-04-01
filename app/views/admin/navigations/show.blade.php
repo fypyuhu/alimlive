@@ -1,0 +1,1 @@
+G:\alimlive\app/views/navigations/show.blade.php
